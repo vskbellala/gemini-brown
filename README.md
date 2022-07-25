@@ -1,7 +1,7 @@
 # gemini-brown
 [Brown University](https://www.brown.edu/) color scheme for [Gemini](https://github.com/anishathalye/gemini) LaTeX beamerposter theme.
 
-- Colors extracted from https://www.brown.edu/university-identity/university-identity/visual-identity
+- Colors extracted from [Brown University Visual Identity](https://www.brown.edu/university-identity/university-identity/visual-identity)
 - `beamercolorthemebrown.sty` - standard scheme with brown headings
 - `beamercolorthemebrownminimal.sty` - minimalistic and more printer-friendly variant
 
