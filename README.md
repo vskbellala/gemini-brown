@@ -19,4 +19,20 @@
 
 ## Demo
 
-Coming soon. Eventually.
+### Brown theme
+`\usecolortheme{brown}`
+
+<p align="center">
+<a href="https://raw.githubusercontent.com/vskbellala/gemini-brown/main/samples/brown_poster.pdf">
+<img src="https://raw.githubusercontent.com/vskbellala/gemini-brown/main/samples/brown_poster.png">
+</a>
+</p>
+
+### Brown Minimal theme
+`\usecolortheme{brownminimal}`
+
+<p align="center">
+<a href="https://raw.githubusercontent.com/vskbellala/gemini-brown/main/samples/brownminimal_poster.pdf">
+<img src="https://raw.githubusercontent.com/vskbellala/gemini-brown/main/samples/brownminimal_poster.png">
+</a>
+</p>
