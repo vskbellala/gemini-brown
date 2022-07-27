@@ -1,6 +1,8 @@
 # gemini-brown
 [Brown University](https://www.brown.edu/) color scheme for [Gemini](https://github.com/anishathalye/gemini) LaTeX beamerposter theme.
 
+[Use it on Overleaf!](https://www.overleaf.com/latex/templates/brown-university-gemini-theme/xyjqtjkvnnjs)
+
 - Colors extracted from [Brown University Visual Identity](https://www.brown.edu/university-identity/university-identity/visual-identity)
 - `beamercolorthemebrown.sty` - standard scheme with brown headings
 - `beamercolorthemebrownminimal.sty` - minimalistic and more printer-friendly variant
